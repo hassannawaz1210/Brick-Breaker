@@ -56,8 +56,10 @@ You need the following to run the game:
 
 1. Clone the repository to your local machine.
 2. Copy all the files to the bin folder of masm615
-3. Compile game.asm
-4. Run game in dosBox
+3. Compile game.asm \
+  ````ml game.asm````
+5. Run game in dosBox \
+  ````game.exe````
 
 ## License
 
