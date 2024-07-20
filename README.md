@@ -42,8 +42,10 @@ Welcome to the Brick Breaker game! This classic arcade-style game challenges you
 - The game utilizes sound effects to enhance the gaming experience.
 
 ### Screens
+<img src="https://github.com/user-attachments/assets/256ef2ab-843b-4932-a5bf-f4fdea936791" width="330px" height="200px">
+<img src="https://github.com/user-attachments/assets/19f7e959-09a1-4b71-aa8b-0b9843c1e66f" width="330px" height="200px">
+<img src="https://github.com/user-attachments/assets/94ffd9d0-d2cc-478e-aec0-94e80db9faed" width="330px" height="200px">
 
-Soon.
 ## Prerequisites:
 
 You need the following to run the game:
